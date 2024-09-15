@@ -1,0 +1,13 @@
+h1 , h2 {
+    background-color: black;
+    color: white;
+}
+pre{
+ background-color: black;  
+ color: white;
+
+}
+abbr{
+    background-color: rgb(2, 1, 1);
+    color: white;
+}

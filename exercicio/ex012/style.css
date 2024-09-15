@@ -1,0 +1,24 @@
+body{
+    background-color: rgba(87, 65, 182, 0.705);
+    color: aliceblue;
+font: 1em sans-serif;
+
+
+}
+
+h1{
+    background-color: black;
+}
+
+p {
+    background-color: rgba(68, 66, 66, 0.705);
+    color: white;
+    
+}
+ a {
+    color: white;
+    text-decoration: none;
+}
+li{
+    list-style: none;
+}
